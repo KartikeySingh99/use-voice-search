@@ -1,6 +1,6 @@
 {
   "name": "use-voice-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Custom Hook For Web Speech API In React",
   "main": "use-voice-search.js",
   "scripts": {
